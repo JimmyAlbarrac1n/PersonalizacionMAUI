@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JA_API_BurgerPromo", "..\ConexionAPI\JA_API\JA_API_BurgerPromo\JA_API_BurgerPromo.csproj", "{3E1BE7DE-7D7B-41FA-A242-DDBB90E5AEA9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JA_BurgerPromo", "..\ConexionAPI\JA_BurgerPromo\JA_BurgerPromo\JA_BurgerPromo.csproj", "{E65E556C-7516-47BE-A6B4-A6051B49D523}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JAMauiAppBurger", "..\ConexionAPI\JA_MAUI\JAMauiAppBurger\JAMauiAppBurger.csproj", "{56D5610B-B25A-426D-9843-E05A969D654D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E1BE7DE-7D7B-41FA-A242-DDBB90E5AEA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E1BE7DE-7D7B-41FA-A242-DDBB90E5AEA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E1BE7DE-7D7B-41FA-A242-DDBB90E5AEA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E1BE7DE-7D7B-41FA-A242-DDBB90E5AEA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E65E556C-7516-47BE-A6B4-A6051B49D523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E65E556C-7516-47BE-A6B4-A6051B49D523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E65E556C-7516-47BE-A6B4-A6051B49D523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E65E556C-7516-47BE-A6B4-A6051B49D523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56D5610B-B25A-426D-9843-E05A969D654D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D5610B-B25A-426D-9843-E05A969D654D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D5610B-B25A-426D-9843-E05A969D654D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{56D5610B-B25A-426D-9843-E05A969D654D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D5610B-B25A-426D-9843-E05A969D654D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56D5610B-B25A-426D-9843-E05A969D654D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75579769-12EF-44C9-A63E-0903C7C93839}
+	EndGlobalSection
+EndGlobal
